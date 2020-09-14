@@ -25,6 +25,8 @@ jobs:
       - name: Run Tests
         run: |
           npm run test:ci
+          pwd
+          ls -al coverage
 
       - name: Upload Coverage to the Wiki
         uses: SwiftDocOrg/github-wiki-publish-action@v1
