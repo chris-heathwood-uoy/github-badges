@@ -25,8 +25,6 @@ jobs:
       - name: Run Tests
         run: |
           npm run test:ci
-          pwd
-          ls -al coverage
 
       - name: Upload Coverage to the Wiki
         uses: kai-tub/external-repo-sync-action@v1
