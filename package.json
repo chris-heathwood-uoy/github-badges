@@ -1,0 +1,24 @@
+{
+  "name": "github-badges",
+  "version": "1.0.0",
+  "description": "Test using the wiki to store the test badges and possibly coverage reports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:ci": "jest && jest-coverage-badges"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-heathwood-uoy/github-badges.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chris-heathwood-uoy/github-badges/issues"
+  },
+  "homepage": "https://github.com/chris-heathwood-uoy/github-badges#readme",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "jest-coverage-badges": "^1.1.2"
+  }
+}
