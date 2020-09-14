@@ -29,8 +29,8 @@ jobs:
           ls -al coverage
 
       - name: Upload Coverage to the Wiki
-        uses: SwiftDocOrg/github-wiki-publish-action@v1
+        uses: kai-tub/external-repo-sync-action@v1
         with:
-          path: "coverage"
+          source-directory: "./coverage"
         env:
-          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          GH_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
