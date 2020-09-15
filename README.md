@@ -1,7 +1,7 @@
 # github-badges
 Test using the wiki to store the test badges and possibly coverage reports.
 
-![Branch Coverage](https://raw.githubusercontent.com/wiki/chris-heathwood-uoy/github-badges/badge-branches.svg) ![Function Coverage](https://raw.githubusercontent.com/wiki/chris-heathwood-uoy/github-badges/badge-functions.svg) ![Lines Coverage](https://raw.githubusercontent.com/wiki/chris-heathwood-uoy/github-badges/badge-lines.svg) ![Statements Coverage](https://raw.githubusercontent.com/wiki/chris-heathwood-uoy/github-badges/badge-statements.svg).
+![Branch Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-branches.svg) ![Function Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-functions.svg) ![Lines Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-lines.svg) ![Statements Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-statements.svg).
 
 These badges are stored on the wiki, the github action :
 
