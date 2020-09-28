@@ -1,7 +1,7 @@
 # github-badges
 Test using the wiki to store the test badges and possibly coverage reports.
 
-[![Run Tests](https://github.com/chris-heathwood-uoy/github-badges/workflows/Run%20tests/badge.svg)](https://github.com/chris-heathwood-uoy/github-badges/actions)
+[![Run Tests](https://github.com/chris-heathwood-uoy/github-badges/workflows/Run%20Tests/badge.svg)](https://github.com/chris-heathwood-uoy/github-badges/actions)
 
 ![Branch Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-branches.svg) ![Function Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-functions.svg) ![Lines Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-lines.svg) ![Statements Coverage]( https://github.com/chris-heathwood-uoy/github-badges/wiki/badge-statements.svg).
 
